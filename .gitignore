@@ -1,0 +1,6 @@
+.venv
+/searxng-data
+/storage
+*.log
+.env
+__pycache__/

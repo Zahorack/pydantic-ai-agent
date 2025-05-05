@@ -1,0 +1,9 @@
+[tool.ruff]
+line-length = 80
+indent-width = 4
+target-version = "py311"
+
+[tool.ruff.format]
+indent-style = "space"
+skip-magic-trailing-comma = true
+line-ending = "auto"

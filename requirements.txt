@@ -1,0 +1,9 @@
+openai>=1.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+tqdm>=4.66.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+pydantic-ai[logfire]
+logfire[requests]~=3.14.1
+beautifulsoup4~=4.13.4
