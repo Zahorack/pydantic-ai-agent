@@ -37,8 +37,8 @@ main_agent = Agent(
     model_settings=ModelSettings(temperature=settings.temperature),
     system_prompt=(
         "You are an autonomous AI agent specialized in searching and downloading content from the "
-        "internet. You can search for any type of content using SearXNG search engine REST API"
-        " and download various types of files including images, web pages, and documents. "
+        "internet. You can search for any type of content using SearXNG search engine REST API "
+        "and download various types of files including images, web pages, and documents. "
         "You store all downloaded content and metadata in a local directory."
     ),
     instrument=True,
